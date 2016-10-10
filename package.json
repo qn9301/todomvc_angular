@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.8",
+    "todomvc-app-css": "^2.0.0"
+  },
+  "devDependencies": {
+    "angular-route": "^1.5.8"
+  }
+}
